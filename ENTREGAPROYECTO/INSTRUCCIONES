@@ -1,0 +1,20 @@
+Instrucciones:
+Primero ejecutar el archivo compilar.sh (Como dice su nombre, compila todos los programas entregados)
+Luego ejecutar el programa deseado ./ejecutable.sh
+
+OBSERVACION 1:
+Los ejecutables de los dos programas de osos y abejas estan en carpetas debido a que son 3 para cada uno. 
+
+El orden de ejecucion es: 
+./inicio.sh
+./abeja.sh
+./oso.sh
+
+Los 3 deben ser ejecutados en distintas consolas a la vez, debido a que son 3 programas distintos.
+ 
+OBSERVACION 2:
+
+Para el programa de cambio de privilegios se agrego un ejecutable que pide al usuario los parametros desde la terminal de Linux, luego llama al programa e inserta esos parametros.
+
+Para ejecutarlo de forma normal dirigase a Codigo/Privilegios y ejecute desde consola 
+./permisos <parametro> <parametro>

@@ -1,0 +1,9 @@
+------INSTRUCCIONES DE USO------
+En terminal escribir ./permisos Direccion XYZ 
+donde Direccion es la direccion completa del archivo
+	  XYZ son 3 numeros en octal.
+	  
+Se provee un archivo de prueba dentro de la carpeta, su direccion es:
+/home/User/.../ENTREGAPROYECTO/Privilegios/archivoPrueba
+
+Cambiar el valor de User y rellenar con las carpetas intermedias.
